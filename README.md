@@ -1,6 +1,6 @@
 # Document Statistics app
 
-A simple windows forms app to display statistics of a document. Implements View-Model-Architecture
+A simple windows forms app to display statistics of a document. Implements View-Model-Persistence Architecture
 
 Allows txt and pdf file inputs.
 
